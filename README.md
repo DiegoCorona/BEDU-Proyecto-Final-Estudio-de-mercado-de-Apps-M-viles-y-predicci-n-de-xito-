@@ -27,7 +27,7 @@ Esta presente parte del proyecto se centra principalmente en solucionar este pro
 
 - Bitácora de Resultados: [Click aquí](https://github.com/DiegoCorona/BEDU-Proyecto-Final-Estudio-de-mercado-de-Apps-Moviles-y-prediccion-de-exito-/blob/main/Bitacora_de_resultados.ipynb)
 
-- Link a nuetsra presentación: [Click aquí](https://docs.google.com/presentation/d/1G7Zyy3w-hPAI629YAbc441xASfwlcwFiifpaq_nNNrQ/edit?usp=sharing)
+- Link a nuestra presentación: [Click aquí](https://docs.google.com/presentation/d/1G7Zyy3w-hPAI629YAbc441xASfwlcwFiifpaq_nNNrQ/edit?usp=sharing)
 
 - Interactua con nuestro ChatBot de Telegram (Recomendamos abrirlo en una pestaña nueva): [Click aquí](http://t.me/SuappBot)
 
