@@ -20,3 +20,14 @@ Este accuracy se debió principalmente al desbalanceo entre ambas clase, esto pr
 Este mismo resultado se pudo corroborar al obtener la métrica AUC en el set de prueba, el cual fue 0.5071277692685027, por lo que el modelo inicial tenía un pobre rendimiento.
 
 Esta presente parte del proyecto se centra principalmente en solucionar este problema, tratar de obtener un modelo que pueda tener un mejor rendimiento dados los datos y, al mismo tiempo, mitigar el problema del desbalanceo en el dataset; sumado a una implementación practica del modelo con un chatbot desarrollado en Telegram donde los usuarios puedan interactuar de manera más cercana con nuestros resultados.
+
+## Resultados:
+
+- Script y desarrollo: [Estudio de Mercado de Apps Móviles y Predicción de Éxito](https://github.com/DiegoCorona/BEDU-Proyecto-Final-Estudio-de-mercado-de-Apps-Moviles-y-prediccion-de-exito-/blob/main/Estudio_de_mercado_de_Apps_M%C3%B3viles_y_predicci%C3%B3n_de_exito.ipynb)
+
+- Bitácora de Resultados: [Click aquí](https://github.com/DiegoCorona/BEDU-Proyecto-Final-Estudio-de-mercado-de-Apps-Moviles-y-prediccion-de-exito-/blob/main/Bitacora_de_resultados.ipynb)
+
+- Link a nuetsra presentación: [Click aquí](https://docs.google.com/presentation/d/1G7Zyy3w-hPAI629YAbc441xASfwlcwFiifpaq_nNNrQ/edit?usp=sharing)
+
+- Interactua con nuestro ChatBot de Telegram (Recomendamos abrirlo en una pestaña nueva): [Click aquí](http://t.me/SuappBot)
+
