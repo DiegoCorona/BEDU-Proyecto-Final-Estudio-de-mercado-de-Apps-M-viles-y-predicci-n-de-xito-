@@ -7,7 +7,7 @@ El presente proyecto es realizado por:
 * [Carlos Rodríguez Tenorio.](https://github.com/carlostnorio)
 * [José David Vázquez Rojas.](https://github.com/davidvrj)
 
-### Un poco del proyecto: 
+### Un poco sobre el proyecto: 
 
 En el repositorio anterior [(Estudio de Mercado en las aplicaciones móviles)](https://github.com/DiegoCorona/Proyecto_BEDU_Modulo4_An-lisis_de_Datos_con_Python) se pudo estudiar, de una manera descriptiva y estadística el comportamiento de las características presentes en nuestro dataset. Pudimos notar que muchas de nuetras variables de estudio se encontraban sesgadas, y contabamos con gran variedad de variables categóricas.
 
