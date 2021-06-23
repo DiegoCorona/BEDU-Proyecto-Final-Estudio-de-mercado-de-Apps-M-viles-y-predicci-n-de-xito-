@@ -17,6 +17,6 @@ El resultado obtenido con está regresión logística era prometedor, ya que obt
 
 Este accuracy se debió principalmente al desbalanceo entre ambas clase, esto provovó que el modelo predijerá la mayoría de las veces que el elemento pertenecía a la clase positiva, es deicr, el modelo no se esforzaba por tratar de predecir una clase a un ejemplo dadas las características, si no que se limitaba a predecir casi siempre la etiqueta con mayor proporción en el dataset.
 
-Este mismo resultado se pudo corroborar al obtener la métrica AUC en el se de prueba, el cual fue 0.5071277692685027, por lo que el modelo inicial tenía un pobre rendimiento.
+Este mismo resultado se pudo corroborar al obtener la métrica AUC en el set de prueba, el cual fue 0.5071277692685027, por lo que el modelo inicial tenía un pobre rendimiento.
 
 Esta presente parte del proyecto se centra principalmente en solucionar este problema, tratar de obtener un modelo que pueda tener un mejor rendimiento dados los datos y, al mismo tiempo, mitigar el problema del desbalanceo en el dataset; sumado a una implementación practica del modelo con un chatbot desarrollado en Telegram donde los usuarios puedan interactuar de manera más cercana con nuestros resultados.
